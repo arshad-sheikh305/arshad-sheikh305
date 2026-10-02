@@ -23,3 +23,6 @@
 <p align="center">
   <img src="https://github-readme-stats-nu-six-89.vercel.app/api/top-langs/?username=arshad-sheikh305&layout=compact&theme=transparent" width="49%" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arshad-sheikh305/arshad-sheikh305/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
