@@ -12,3 +12,8 @@
     src="https://raw.githubusercontent.com/arshad-sheikh305/arshad-sheikh305/main/light.svg"
   />
 </picture>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-nu-six-89.vercel.app/api?username=arshad-sheikh305&show_icons=true&hide_rank=true&theme=transparent" width="49%" />
+</p>
