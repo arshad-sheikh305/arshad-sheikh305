@@ -20,3 +20,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=arshad-sheikh305&theme=transparent&hide_border=true" width="100%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats-nu-six-89.vercel.app/api/top-langs/?username=arshad-sheikh305&layout=compact&theme=transparent" width="49%" />
+</p>
