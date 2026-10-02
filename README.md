@@ -5,11 +5,11 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/arshad-sheikh305/arshad-sheikh305/main/light.svg"
+    srcset="https://raw.githubusercontent.com/arshad-sheikh305/arshad-sheikh305/main/dark.svg"
   />
   <img
     alt="Mohammad Arshad - Software Developer"
-    src="https://raw.githubusercontent.com/arshad-sheikh305/arshad-sheikh305/main/light.svg"
+    src="https://raw.githubusercontent.com/arshad-sheikh305/arshad-sheikh305/main/dark.svg"
   />
 </picture>
 ## 📊 GitHub Stats
