@@ -26,3 +26,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/arshad-sheikh305/arshad-sheikh305/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-arshad-a1b7b33a8">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:arshadsheikh7037@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://portfolio-arshadsheikh.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
